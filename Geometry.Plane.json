@@ -345,6 +345,8 @@
 					"pivot": [-10, 5, 13],
 					"cubes": [
 						{"origin": [-1.5, 2, 35], "size": [3, 5, 4], "uv": [48, 107]}
+				{	"animations": "animations/entity/plane.animation.json"}
+
 					]
 				}
 			]

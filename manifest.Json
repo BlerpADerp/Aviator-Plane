@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Aviator Plane Resource Pack",
+    "name": "Aviator Plane RP",
+    "uuid": "88f29c15-6bbd-41c7-9270-97e13cb9efb8",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Models, textures, and animations for the Aviator Plane",
+      "type": "resources",
+      "uuid": "f8d9f010-631b-494e-9e4d-ac645704fe68",
+      "version": [1, 0, 0]
+    }
+  ]
+}
